@@ -1,6 +1,3 @@
-# atalsooraj
-Grad student. Pursuing Masters in Data Science at UMBC
-
 The datasets I chose pertain to fire safety deficiencies and related incidents in USA. The data sources for these datasets 
 are https://catalog.data.gov/dataset/fire-safety-deficiencies-61a6 and https://apps.usfa.fema.gov/civilian-fatalities/incident/reportMap.
 I discovered these datasets while searching for fire accident incidents across USA when I came across this interesting dataset.
